@@ -1,0 +1,4 @@
+opencv-python
+soundfile
+matplotlib
+moviepy
